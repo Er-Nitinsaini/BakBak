@@ -124,7 +124,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="more">🚀 images</a>
 <img src="https://github.com/user-attachments/assets/438d8856-f59b-40b9-b9ec-6a0125293594"/>
-<img src="https://github.com/user-attachments/assets/1ecf23fc-c01a-4f36-abce-e078ecd73542"/>
+<img src="https://github.com/user-attachments/assets/48ed157a-1380-41dd-aa83-4538bd03dd8c"/>
 <img src="https://github.com/user-attachments/assets/72633bac-b6a9-4fc4-9126-d97bf567d6c9"/>
 <img src="https://github.com/user-attachments/assets/4c3e27eb-2acf-4d45-975c-a75abfa15245"/>
 
